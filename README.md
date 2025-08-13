@@ -68,3 +68,24 @@ I contenuti in programma per il prossimo aggiornamento sono:
 
 ### [IL CORSO COMPLETO E' DISPONIBILE SU UDEMY A SOLI 9.99 € CLICCANDO SU QUESTO LINK](https://www.udemy.com/deep-learning-pratico/?couponCode=PROFAI_GITHUB)
 
+### Letture aggiuntive
+
+- [Learning representation by back-propagating errors](https://www.cs.utoronto.ca/~hinton/absps/naturebp.pdf)
+- [Understanding the difficulty of training deep feedforward neural networks](https://www.researchgate.net/publication/215616968_Understanding_the_difficulty_of_training_deep_feedforward_neural_networks)
+- [On the importance of initialization and momentum in deep learning](http://proceedings.mlr.press/v28/sutskever13.pdf)
+- [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+- [ADADELTA: AN ADAPTIVE LEARNING RATE METHOD](https://arxiv.org/pdf/1212.5701)
+- [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980)
+- [Incorporating Nesterov Momentum into Adam](https://cs229.stanford.edu/proj2015/054_report.pdf)
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- [Gradient-Based Learning Applied to Document Recognition](https://axon.cs.byu.edu/~martinez/classes/678/Papers/Convolution_nets.pdf)
+- [Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition](https://www.researchgate.net/publication/221080312_Evaluation_of_Pooling_Operations_in_Convolutional_Architectures_for_Object_Recognition)
+- [Long Short-Term Memory](https://www.researchgate.net/publication/13853244_Long_Short-Term_Memory)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781)
+- [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/pdf/1211.5063)
+- [Understanding LSTM Networks](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf)
+- [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555)
+- [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](https://arxiv.org/pdf/1409.1259)
+- [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](https://arxiv.org/pdf/1411.4389)
+- [ImageNet Classification with Deep Convolutional Neural Networks](https://www.cs.cmu.edu/~epxing/Class/10715-14f/reading/imagenet.pdf)
